@@ -3,4 +3,4 @@ Welcome to the Sinatra Science Club website, please feel free to explore the dif
 *Website created @linnnegan @LoralaiLeora @InkButRainbows*
 <br>
 In the words of Tony Bennett...
->No matter what age you are, there's alot of room for learning.
+>No matter what age you are, there's a lot of room for learning.
