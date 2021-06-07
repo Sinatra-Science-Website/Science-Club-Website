@@ -1,11 +1,18 @@
 /* BASIC TEXT/BODY FORMATTING*/
+
+
 h1 { font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
     font-size: 30px; 
     color: #081846;
     font-style: normal; 
     font-variant: normal; 
     font-weight: bold; 
-    line-height: 32px;} 
+    line-height: 32px;
+    
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-right: 150px;
+    margin-left: 0px;} 
 
 h2 { font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif; 
     font-size: 18px; 
@@ -13,13 +20,19 @@ h2 { font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Ro
     font-style: normal; 
     font-variant: normal; 
     font-weight: normal; 
-    line-height: 26px;} 
+    line-height: 26px;}
     
+
 body { 
     margin: 0;
     font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
     font-size: 16 px;
     background:#cbcddf;
+    
+    margin-top: 0px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 30px;
     }
 
 /* HEADER FORMATTING */
@@ -72,4 +85,4 @@ float: right;
 
 html {
     scroll-behavior: smooth;
-  } 
+  }
